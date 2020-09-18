@@ -1,0 +1,1 @@
+<input name='ExpirationDate' type="Text" id="demo2" maxlength="25" size="39" readonly value='<? echo $ExpirationDate;?>'>&nbsp;&nbsp;<a href="javascript:NewCal('demo2','DDMMYYYY',false,24)"><img src="../../docs_maint/DateTime/DateTime/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>

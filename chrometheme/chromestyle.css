@@ -1,0 +1,148 @@
+/*.chromestyle{
+width: 99%;
+font-weight: bold;
+}
+
+.chromestyle:after{
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+.chromestyle ul{
+
+width: 955px;
+padding: 0px 0;
+margin: 0;
+text-align: left; 
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+color: #494949;
+padding: 0px 0px;
+margin: 0;
+text-decoration: none;
+
+}*/
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+/*.dropmenudiv{
+position:absolute;
+top: 0;
+border: 1px solid #BBB; 
+border-bottom-width: 0;
+font-family:"Arial";
+font-size:14px;
+line-height:25px;
+z-index:100;
+background-color: #789C98;
+width: 190px;
+visibility: hidden;
+}
+
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; 
+padding: 2px 0;
+text-decoration: none;
+color:#FFFFFF;
+
+}
+
+
+.dropmenudiv a:hover{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB;
+padding: 2px 0;
+text-decoration: none;
+background-color: #91b4b0;
+color:#ffffff;
+
+}*/
+
+
+
+.chromestyle{
+width: 99%;
+font-weight: bold;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+.chromestyle ul{
+
+width: 955px;
+padding: 0px 0;
+margin: 0;
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+color: #494949;
+padding: 0px 0px;
+margin: 0;
+text-decoration: none;
+border-right: 1px solid #DADADA;
+}
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position:absolute;
+top: 0;
+border: 1px solid #BBB; /*THEME CHANGE HERE*/
+border-bottom-width: 0;
+font-family:"Arial";
+font-size:14px;
+line-height:20px;
+z-index:100;
+background-color: #789C98;
+width: 200px;
+visibility: hidden;
+}
+
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; /*THEME CHANGE HERE*/
+padding: 2px 0;
+text-decoration: none;
+color:white;
+}
+
+
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+background-color: #91b4b0;
+color:#ffffff;
+}
+
+

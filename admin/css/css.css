@@ -1,0 +1,345 @@
+body{
+margin:0px; padding:0px; background-color:#FFFFFF;
+}
+td {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #555555;
+	text-decoration: none;
+}
+a{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #DE4100;
+	text-decoration: underline;
+}
+
+a:visited{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #DE4100;
+	text-decoration: underline;
+}
+a:hover{
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #DE4100;
+	text-decoration: none;
+}
+
+h1 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #DC4300;
+	text-decoration: none;
+}
+.white_txt {
+
+
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ltblack_txt {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #212021;
+	text-decoration: none;
+}
+.footer_txt {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #485987;
+	text-decoration: none;
+}
+
+.blue_txt {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #21498C;
+	text-decoration: none;
+}
+.blue_txt:link, .blue_txt:visited {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #21498C;
+	text-decoration: underline;
+}
+.blue_txt:hover{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #21498C;
+	text-decoration: none;
+}
+
+.blueheading{
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 12px; font-weight: bold; 
+	color: #284591; 
+	text-decoration: none; 
+	padding-left:10px;
+}
+.orange_txt { 
+		
+		font: normal 11px Tahoma, Arial, Helvetica, sans-serif; 
+		color: #DE4100; 
+		text-decoration: none; 
+		}
+
+.white_bold { 
+	font: bold 11px Arial, Helvetica, sans-serif; 
+	text-decoration: none; 
+	color: #FFFFFF; 
+}
+.dropDown { 
+	FONT: normal 11px Arial, Helvetica, sans-serif; 
+	COLOR: #000000;
+	text-decoration: none; 
+	width: 165px
+	}
+.red_txt {
+
+
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #DC4300;
+	text-decoration: none;
+}
+
+.header_row
+{
+	background-color:#638EC6;
+	font-family: tahoma,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #f0f0f0;
+	text-decoration: none;
+	height: 20px;
+}
+
+.textbox
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #222222;
+	text-decoration: none;
+	height:15px;
+	width: 180px;
+	border: 1px solid #a0a0a0;
+	background-color:#FFFFFF;
+}
+
+.buttons
+{
+	
+	
+	font-family:tahoma,verdana,arial;
+	font-size:11px;
+	color: #313031;
+	text-decoration: none;
+	background-color: #f7f7f7;
+	border: 1px solid #313031;
+	
+	
+}
+
+.msg
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #DC4300;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.paging_links
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #DC4300;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.paging_links_selected
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+.red_txt_small {
+
+
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #DC4300;
+	text-decoration: none;
+}
+
+.link_btn
+{
+
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #1E518F;
+	text-decoration: none;
+	border: 1px solid #c0c0c0;
+	background-color:#f0f0f0;
+	padding: 2px;
+}	
+
+.border
+{
+	border: 1px solid #919191;
+}	
+
+.bluebordertop
+{
+	border-top: 1px solid #BCCAD2;
+}	
+
+.white_txtlink {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.white_txtlink:link, .white_txtlink:visited{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.white_txtlink:hover {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+   
+  .hLine
+{
+	
+	line-height:1px;
+	background-color:#b0b0b0;
+	padding:0px;
+}
+.padlft15{
+padding-left:15px;
+}
+
+.tblBackground
+{	
+	background-color:#D8D8D8;	
+}
+.evanClass
+{
+	background-color:#FFFFFF;	
+}
+.oddClass
+{
+	background-color:#F1F1F1;
+}
+.InactiveClass
+{
+	background-color:#FFC49E;
+}
+
+.textbox{
+font-family:arial;
+font-size:12px;
+height:16px;
+color:#000000;
+text-decoration:none;
+text-align:left;
+background-image:url(images/bg_textbox.jpg);
+width:190px;
+border:1px solid #69bbd9;
+}
+
+ .fieldsname{
+font-family:verdana;
+font-size:11px;
+color:#000000;
+text-decoration:none;
+}
+
+.textbox12{
+font-family:verdana;
+font-size:11px;
+height:20px;
+color:#000000;
+text-decoration:none;
+text-align:left;
+background-color:#F9F9F9;
+width:235px;
+border:1px solid #D7D6D6;
+}
+
+ .textboxbig{
+font-family:verdana;
+font-size:11px;
+color:#000000;
+width:235px;
+text-decoration:none;
+}
+
+
+ .submitbutton{
+font-family:verdana;
+font-size:11px;
+height:20px;
+color:#000000;
+text-decoration:none;
+text-align:center;
+background-color:#F9F9F9;
+
+border:1px solid #D7D6D6;
+}
+
+.list_menu{
+font-family:verdana;
+font-size:11px;
+height:20px;
+color:#000000;
+text-decoration:none;
+text-align:left;
+background-color:#F9F9F9;
+width:235px;
+border:1px solid #dfdfdf;
+}
+
+.list_menu_status{
+font-family:verdana;
+font-size:11px;
+height:20px;
+color:#000000;
+text-decoration:none;
+text-align:left;
+background-color:#F9F9F9;
+
+border:1px solid #dfdfdf;
+}
